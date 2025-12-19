@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="LambdaFunction/src/LambdaFunction/LambdaFunction.csproj" Id="dd15cacb-e4df-4609-aeda-547f2801c9ae" />
+  <Project Path="LambdaFunction/test/LambdaFunction.Tests/LambdaFunction.Tests.csproj" />
+</Solution>
